@@ -27,4 +27,5 @@ This project analyzes retail and FMCG sales performance across multiple stores i
 ---
 
 ## Dashboard Preview
+
 ![Dashboard](fmcg_dashboard.png)
